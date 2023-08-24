@@ -1,3 +1,7 @@
+# The domain leapcode.io is broken.
+
+# There's an open issue regarding this already.
+
 ## Leapcode's Frontend Codebase
 
 Leapcode.io is an open source platform that motivates & rewards new open source contributors. Leapcode helps you contribute to open source projects right from your first pull request to working on major projects.
